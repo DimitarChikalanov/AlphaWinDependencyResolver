@@ -1,0 +1,7 @@
+A -> B -> C -> D
+X -> Y -> Z
+P -> Q -> R -> S
+M -> N
+V -> W
+B -> E -> F
+Y -> G -> H
