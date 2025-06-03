@@ -4,7 +4,7 @@ import java.util.Set;
 public class Main {
 
     public static void main(String[] args) {
-        DependencyResolver dependencyResolver = new DependencyResolver();
+        DependencyResolver dependencyResolver = new DependencyResolverImp();
 
         System.out.println("Start application");
         dependencyResolver.loadFromFile("input.txt");
